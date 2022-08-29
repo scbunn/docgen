@@ -1,3 +1,3 @@
-module github.com/scbun/docgen
+module github.com/scbunn/docgen
 
 go 1.12
